@@ -16,7 +16,7 @@ short_description: "One-click model liberation + chat playground"
 ---
 
 <p align="center">
-  <strong>O B L I T E R A T U S</strong>
+  <strong>ＲＥＶＥＲＳＥＯＲＢＩＴ</strong>
 </p>
 
 <p align="center">

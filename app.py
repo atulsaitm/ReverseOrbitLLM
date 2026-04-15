@@ -4273,7 +4273,7 @@ with gr.Blocks(theme=THEME, css=CSS, js=_JS, title="ReverseOrbitLLM", fill_heigh
     gr.HTML("""
         <div class="header-wrap">
             <div class="header-sigils">\u273a \u2666 \u273a \u2666 \u273a</div>
-            <div class="main-title">O B L I T E R A T U S</div>
+            <div class="main-title">ＲＥＶＥＲＳＥＯＲＢＩＴ</div>
             <div class="sub-title">MASTER ABLATION SUITE &mdash; <em>BREAK THE CHAINS THAT BIND YOU</em><span class="cursor-blink">\u2588</span></div>
         </div>
     """)
